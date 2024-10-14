@@ -1,10 +1,10 @@
 # Unichain Testnet Daily Transaction Bot
 
-### Open [VsCode](https://code.visualstudio.com/download) OR [Github CodeSpace](https://github.com/codespaces)
+### 1 .Open [VsCode](https://code.visualstudio.com/download) OR [Github CodeSpace](https://github.com/codespaces)
 
 ## Steps
 
-### 1. Clone Repository
+### 2. Clone Repository
 
 ```bash
 git clone https://github.com/BidyutRoy2/Unichain-Testnet-Bot.git
@@ -14,13 +14,13 @@ git clone https://github.com/BidyutRoy2/Unichain-Testnet-Bot.git
 cd Unichain-Testnet-Bot
 ```
 
-### 2. Instal Dependency
+### 3. Instal Dependency
 
 ```bash
 npm install
 ```
 
-### 3. configurate .env File
+### 4. configurate .env File
 
 Create a file named .env in the project root directory.
 
@@ -37,7 +37,7 @@ Create a file named .env in the project root directory.
 PRIVATE_KEYS=["Enter-Wallet-Private-Key"]
 ```
 
-### 4. Run script & Make TXH
+### 5. Run script & Make Daily Transaction
 
 ```bash
 npm run start
