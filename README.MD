@@ -54,6 +54,14 @@ npm run start
 
 <h2 align=center> Deploy ERC20 Token Contract on Unichain Sepolia </h2>
 
+ ## installation command that starts with curl
+```bash
+sudo apt update && sudo apt install curl
+```
+## installation command that starts with wget
+```bash
+sudo apt update && sudo apt install wget
+```
  
 ## Installation
 - You can use either this command
