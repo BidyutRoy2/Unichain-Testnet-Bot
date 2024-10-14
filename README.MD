@@ -14,7 +14,7 @@ git clone https://github.com/BidyutRoy2/Unichain-Testnet-Bot.git
 ```
 
 ```
-cd superposition-testnet-bot
+cd Unichain-Testnet-Bot
 ```
 
 ### 2. Instal Dependency
