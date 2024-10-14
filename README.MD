@@ -10,7 +10,7 @@
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/BidyutRoy2/superposition-testnet-bot.git
+git clone https://github.com/BidyutRoy2/Unichain-Testnet-Bot.git
 ```
 
 ```
